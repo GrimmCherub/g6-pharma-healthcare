@@ -1,6 +1,7 @@
 A short summary of what we discussed today in our first group call today:
 
-We will focus on predicting Covid infections on a level as regional as possible (countries, substates, cities), so that we can determine the locations with a high risk.
+We will focus on predicting Covid infections on a level as regional as possible (countries, substates, cities), 
+so that we can determine the locations with a high risk.
 If we succeeded, only then do we want to try to predict waiting time for a test in high risk areas, or analyze the test result delay, 
 it with distance to test center, etc. Because we think that it could be difficult to get all the data needed for this with good enough quality.
 
