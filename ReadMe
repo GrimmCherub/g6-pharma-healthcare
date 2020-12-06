@@ -1,4 +1,6 @@
-A short summary of what we discussed today in our first group call today:
+our programming language is Python
+
+A short summary of what we discussed today in our first group call today (05.12.2020):
 
 We will focus on predicting Covid infections on a level as regional as possible (countries, substates, cities), 
 so that we can determine the locations with a high risk.
