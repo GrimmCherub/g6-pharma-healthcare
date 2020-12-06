@@ -5,6 +5,6 @@ so that we can determine the locations with a high risk.
 If we succeeded, only then do we want to try to predict waiting time for a test in high risk areas, or analyze the test result delay, 
 it with distance to test center, etc. Because we think that it could be difficult to get all the data needed for this with good enough quality.
 
-To be more precise, I would suggest that we first try to visualize hotspots and maybe also test centers. 
+To be more precise, I(Dennis Menze) would suggest that we first try to visualize hotspots and maybe also test centers. 
 could be really tough and maybe is not even needed for this project, 
 or maybe only for the last bullet point of "calculating the possible need of more POC during the holidays and their location". 
